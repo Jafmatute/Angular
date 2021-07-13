@@ -10,8 +10,7 @@ let nombre: string = 'Strider';
 let hp: any = 95;
 let bol: boolean = true;
 
-nombre = 'Josue';
+nombre = 'Josue flores';
 hp = null;
 
 console.log(hp);
-
